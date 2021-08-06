@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/386162204.svg)](https://zenodo.org/badge/latestdoi/386162204)
-
 # wrfdiags_testing
 
 This repository contains code to check if the CCRC additional diagnostics are correct.
